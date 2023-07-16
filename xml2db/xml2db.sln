@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xml2db", "xml2db\xml2db.csproj", "{EC9EB980-9AB2-43B9-BD8E-3936D8401C5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC9EB980-9AB2-43B9-BD8E-3936D8401C5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC9EB980-9AB2-43B9-BD8E-3936D8401C5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC9EB980-9AB2-43B9-BD8E-3936D8401C5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC9EB980-9AB2-43B9-BD8E-3936D8401C5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39B2531B-5D6B-4AB9-85D3-AF39E155BFE1}
+	EndGlobalSection
+EndGlobal
